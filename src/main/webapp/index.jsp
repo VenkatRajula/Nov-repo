@@ -28,7 +28,7 @@
 <p>enter your<mark> Emailid</mark> More In Minutes with Our</p>
 
 
-<marquee direction="right" scrollamount="30"><a href="test1.html" >home</a></marquee>
+<marquee direction="right" scrollamount="10"><a href="test1.html" >home</a></marquee>
 
 
 <center>MY nMAE IS SREENU</center>
