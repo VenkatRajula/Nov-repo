@@ -1,0 +1,10 @@
+Build & Release Engineer
+
+Alight Worklife application - Insurance based application
+
+Monolithic architecture
+Mirco-service based application..  300+ services
+
+
+
+Flipkart...Orders-Cart-Whislist- 
